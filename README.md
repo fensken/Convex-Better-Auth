@@ -15,7 +15,6 @@ It comes preconfigured with:
 
 ## Features
 
-- ✅ Email + Password auth (Better Auth)
 - ✅ Social logins (Google, GitHub, etc.)
 - ✅ Passkeys for passwordless login
 - ✅ Session management integrated with Convex
